@@ -1,0 +1,18 @@
+{
+    "name": "nft-FUNCKY",
+    "description": "Funcky project",
+    "image": "https://ipfs.io/ipfs/QmZ2wRtbDGEXEUxmABnWpvz9nyBDvs6XxogEXe3c9Keapg",
+    "attributes": [{
+        "trait_type": "Generation",
+        "value": 1
+        },
+        {
+            "trait_type": "Eth_Pieces",
+            "value": 3
+        },
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        }
+    ]
+}
